@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Logo.webp" alt="Velox Apps Swift Desktop Web Applications" />
+<img src="./Logo.webp" alt="Velox Apps Swift Desktop Web Applications" height=320/>
 </p>
 <div align="center">
   <a href="https://velox-apps.github.io/velox/documentation/veloxruntime/">Documentation <a>
