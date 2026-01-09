@@ -6,7 +6,7 @@
   —
   <a href="https://velox-apps.github.io/velox/tutorials/table-of-contents">Tutorials<a>
   —
-  <a href="https://discord.gg/nZKv7kkvb"> 🎙 Discord <a>
+  <a href="https://discord.gg/nZKv7kkvb">Discord <a>
 </div>
 
 # Velox
