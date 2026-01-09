@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://velox-apps.github.io/velox/documentation/veloxruntime/"> 📚 Docs <a>
+  —
+  <a href="https://discord.gg/nZKv7kkvb"> 🎙 Discord <a>
+</div>
+
 # Velox
 
 Velox brings the Tauri model to Swift: build desktop apps with a web UI and a Swift backend, backed by the Tao/Wry runtime under the hood. It aims to feel native to Swift developers while keeping the HTML/CSS/JS workflow you already know.
