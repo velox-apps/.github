@@ -1,5 +1,10 @@
+<p align="center">
+<img src="./Logo.webp" alt="Velox Apps Swift Desktop Web Applications" />
+</p>
 <div align="center">
-  <a href="https://velox-apps.github.io/velox/documentation/veloxruntime/"> 📚 Docs <a>
+  <a href="https://velox-apps.github.io/velox/documentation/veloxruntime/">Documentation <a>
+  —
+  <a href="https://velox-apps.github.io/velox/tutorials/table-of-contents">Tutorials<a>
   —
   <a href="https://discord.gg/nZKv7kkvb"> 🎙 Discord <a>
 </div>
